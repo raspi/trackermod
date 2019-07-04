@@ -1,4 +1,4 @@
-package modinfo
+package trackermod
 
 type EffectCommand uint8
 
